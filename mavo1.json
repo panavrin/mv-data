@@ -3,15 +3,5 @@
 		"Nov 3-7th, 2018 - CSCW, Jersey City",
 		"Testing Travel"
 	],
-	"travel_item": [
-		{
-			"travel_link": "https://cscw.acm.org/2018/",
-			"travel_dates": "Nov 3-7th, 2018",
-			"travel_place": "Jersey City"
-		},
-		{
-			"travel_dates": "Sep 21nd-24th, 2018",
-			"travel_place": "Ann Arbor"
-		}
-	]
+	"travel_item": []
 }
