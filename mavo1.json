@@ -10,8 +10,29 @@
 	"desc2": "I am looking for exceptional undergraduates, Master's students, Ph.D. students, and post-docs with strong technical skills who are interested in creating novel interactive systems that can facilitate collaboration, creativity, and empathy. I also create novel interactive music systems that enable new musical aesthetic. Drop me an email if you think you are the one.",
 	"collection": [
 		{
-			"url": "sangwonlee.com",
-			"name": "test"
-		}
+			"url": "https://scholar.google.com/citations?user=II2NGWIAAAAJ&hl=en",
+			"name": "Google Scholar"
+		},
+		{
+			"url": "http://sangwonlee.com/cv/",
+			"name": "Curriculum Vitae"
+		},
+		{
+			"url": "http://sangwonlee.com/cv/research-statement-SangWonLee.pdf",
+			"name": "Research Statement"
+		},
+		{
+			"url": "http://sangwonlee.com/cv/teaching-statement-SangWonLee.pdf",
+			"name": "Teaching Statement"
+		},
+		{
+			"url": "https://twitter.com/snaglee2401",
+			"name": "Twitter"
+		},
+		{
+			"url": "https://medium.com/@sangwonlee.mail",
+			"name": "Medium"
+		},
+		{}
 	]
 }
