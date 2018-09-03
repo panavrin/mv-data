@@ -64,5 +64,19 @@
 		},
 		{}
 	],
-	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium"
+	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium",
+	"menuitem": [
+		{
+			"name": "Home"
+		},
+		{
+			"url": "https://sangwonlee.com"
+		},
+		{},
+		{
+			"url": "https://sangwonlee.com/bio",
+			"name": "CV"
+		},
+		{}
+	]
 }
