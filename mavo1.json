@@ -51,7 +51,9 @@
 			"url": "https://medium.com/@sangwonlee.mail",
 			"name": "Medium (blog) "
 		},
-		{},
+		{
+			"name": "-"
+		},
 		{
 			"url": "./cv/research-statement-SangWonLee.pdf",
 			"name": "Research Statement"
