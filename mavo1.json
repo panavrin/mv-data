@@ -1,6 +1,11 @@
 {
 	"travel_item": [
 		{
+			"travel_dates": "Sep. 21nd~24th",
+			"travel_desc": "University of Michigan",
+			"travel_place": "Ann Arbor"
+		},
+		{
 			"travel_dates": "Nov. 3rd~7th",
 			"travel_desc": "CSCW",
 			"travel_place": "Jersey City",
