@@ -33,5 +33,33 @@
 			"url": "https://medium.com/@sangwonlee.mail",
 			"name": "Medium"
 		}
+	],
+	"links": [
+		{
+			"url": "/cv/SangWonLee_Vitae.pdf",
+			"name": "Curriculum Vitae"
+		},
+		{
+			"url": "https://scholar.google.com/citations?user=II2NGWIAAAAJ&hl=en",
+			"name": "Google Scholar"
+		},
+		{
+			"url": "https://twitter.com/snaglee2401",
+			"name": "Twitter"
+		},
+		{
+			"url": "https://medium.com/@sangwonlee.mail",
+			"name": "Medium (blog) "
+		},
+		{},
+		{
+			"url": "./cv/research-statement-SangWonLee.pdf",
+			"name": "Research Statement"
+		},
+		{
+			"url": "./cv/teaching-statement-SangWonLee.pdf",
+			"name": "Teaching Statement"
+		},
+		{}
 	]
 }
