@@ -8,7 +8,6 @@
 		}
 	],
 	"desc2": "I am looking for exceptional undergraduates, Master's students, Ph.D. students, and post-docs with strong technical skills who are interested in creating novel interactive systems that can facilitate collaboration, creativity, and empathy. I also create novel interactive music systems that enable new musical aesthetic. Drop me an email if you think you are the one.",
-
 	"links": [
 		{
 			"url": "/cv/SangWonLee_Vitae.pdf",
@@ -39,5 +38,6 @@
 		},
 		{}
 	],
-	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium"
+	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium",
+	"picture": "https://cdn.rawgit.com/panavrin/mv-data/e19331821055f0ba614e5b37c99d48e4d0280f7b/images/301545_10150450688749852_1271519194_n.jpg"
 }
