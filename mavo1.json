@@ -7,5 +7,11 @@
 			"travel_link": "https://cscw.acm.org/2018"
 		}
 	],
-	"desc2": "I am looking for exceptional undergraduates, Master's students, Ph.D. students, and post-docs with strong technical skills who are interested in creating novel interactive systems that can facilitate collaboration, creativity, and empathy. I also create novel interactive music systems that enable new musical aesthetic. Drop me an email if you think you are the one."
+	"desc2": "I am looking for exceptional undergraduates, Master's students, Ph.D. students, and post-docs with strong technical skills who are interested in creating novel interactive systems that can facilitate collaboration, creativity, and empathy. I also create novel interactive music systems that enable new musical aesthetic. Drop me an email if you think you are the one.",
+	"collection": [
+		{
+			"url": "sangwonlee.com",
+			"name": "test"
+		}
+	]
 }
