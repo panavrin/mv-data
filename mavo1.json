@@ -1,11 +1,6 @@
 {
 	"travel_item": [
 		{
-			"travel_dates": "Sep. 21st",
-			"travel_desc": "CS Graduate Seminar ",
-			"travel_place": "Virginia Tech"
-		},
-		{
 			"travel_dates": "Nov. 3rd~7th",
 			"travel_desc": "CSCW",
 			"travel_place": "Jersey City",
