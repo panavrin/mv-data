@@ -1,6 +1,11 @@
 {
 	"travel_item": [
 		{
+			"travel_dates": "Oct. 5th",
+			"travel_desc": "ICAT Playdate",
+			"travel_place": "Virginia Tech"
+		},
+		{
 			"travel_dates": "Nov. 3rd~7th",
 			"travel_desc": "CSCW",
 			"travel_place": "Jersey City",
