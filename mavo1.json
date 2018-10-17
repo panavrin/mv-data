@@ -42,10 +42,7 @@
 	"picture": "https://cdn.rawgit.com/panavrin/mv-data/e19331821055f0ba614e5b37c99d48e4d0280f7b/images/301545_10150450688749852_1271519194_n.jpg",
 	"research_item": [
 		{
-			"name": "-"
-		},
-		{
-			"name": "computers as an expressive medium"
+			"name": "     computers as an expressive medium"
 		},
 		{
 			"name": "computer-mediated empathy"
@@ -58,9 +55,6 @@
 		},
 		{
 			"name": "collaborative programming environments"
-		},
-		{
-			"name": "-"
 		}
 	],
 	"desc3": "\n"
