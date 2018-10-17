@@ -7,7 +7,7 @@
 			"travel_link": "https://cscw.acm.org/2018"
 		}
 	],
-	"desc2": "I am looking for Ph.D. students with strong technical skills who are interested in creating novel interactive systems for Fall 2019. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal. \n\n     - computers as an expressive medium \n     - computer-mediated empathy \n      - groupware for facilitation of understanding - interactive music performance (live coding) - temporal navigation in interactive systems - collaborative programming environments.",
+	"desc2": "I am looking for Ph.D. students with strong technical skills who are interested in creating novel interactive systems for Fall 2019. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal.\n",
 	"links": [
 		{
 			"url": "/cv/SangWonLee_Vitae.pdf",
@@ -39,5 +39,25 @@
 		{}
 	],
 	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium",
-	"picture": "https://cdn.rawgit.com/panavrin/mv-data/e19331821055f0ba614e5b37c99d48e4d0280f7b/images/301545_10150450688749852_1271519194_n.jpg"
+	"picture": "https://cdn.rawgit.com/panavrin/mv-data/e19331821055f0ba614e5b37c99d48e4d0280f7b/images/301545_10150450688749852_1271519194_n.jpg",
+	"research_item": [
+		{},
+		{
+			"name": "computers as an expressive medium"
+		},
+		{
+			"name": "computer-mediated empathy"
+		},
+		{
+			"name": "groupware for facilitation of understanding"
+		},
+		{
+			"name": "interactive music performance and live coding"
+		},
+		{
+			"name": "collaborative programming environments"
+		},
+		{}
+	],
+	"desc3": "\n\t\t\t\tDrop me an email if you think you are the one.\n\t\t\t"
 }
