@@ -1,5 +1,21 @@
 {
-	"travel_item": [],
+	"travel_item": [
+		{
+			"travel_dates": "ACM CHI",
+			"travel_desc": "5/3/2019",
+			"travel_place": "5/10/2019"
+		},
+		{
+			"travel_dates": "NIME",
+			"travel_desc": "6/2/2019",
+			"travel_place": "6/7/2019"
+		},
+		{
+			"travel_dates": "ACM C&C",
+			"travel_desc": "6/23/2019",
+			"travel_place": "6/28/2019"
+		}
+	],
 	"desc2": "I am recruiting Ph.D. students who are interested in creating novel interactive systems. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal.",
 	"links": [
 		{
