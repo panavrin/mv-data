@@ -1,5 +1,16 @@
 {
-	"travel_item": [],
+	"travel_item": [
+		{
+			"travel_dates": "10/19-11/24/2019",
+			"travel_desc": "UIST 2019",
+			"travel_place": "New Orleans, LA"
+		},
+		{
+			"travel_dates": "11/11",
+			"travel_desc": "Seminar",
+			"travel_place": "Texas A&M University, College Station, TX"
+		}
+	],
 	"desc2": "I am recruiting Ph.D. students who are interested in creating novel interactive systems. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal.",
 	"links": [
 		{
