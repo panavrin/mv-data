@@ -40,7 +40,14 @@
 			"url": "./cv/teaching-statement-SangWonLee.pdf",
 			"name": "Teaching Statement"
 		},
-		{}
+		{
+			"url": "http://github.com/echo-lab/",
+			"name": "Lab Repository (GitHub)"
+		},
+		{
+			"url": "http://wordpress.cs.vt.edu/echolab/",
+			"name": "Research Catalog"
+		}
 	],
 	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium",
 	"picture": "https://cdn.rawgit.com/panavrin/mv-data/afa922fe21bc234b5e9203a71fc9ff58f393bb79/images/sang-profile3.png",
