@@ -48,7 +48,9 @@
 			"url": "http://wordpress.cs.vt.edu/echolab/",
 			"name": "Research Catalog"
 		},
-		{},
+		{
+			"name": "_____________"
+		},
 		{
 			"name": "Current Students"
 		},
