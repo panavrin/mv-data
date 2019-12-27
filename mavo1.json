@@ -1,22 +1,6 @@
 {
-	"travel_item": [
-		{
-			"travel_dates": "10/19-11/24/2019",
-			"travel_desc": "UIST 2019",
-			"travel_place": "New Orleans, LA"
-		},
-		{
-			"travel_dates": "11/11/2019",
-			"travel_desc": "Seminar",
-			"travel_place": "Texas A&M University, College Station, TX"
-		},
-		{
-			"travel_dates": "1/1/2019",
-			"travel_desc": "1/10",
-			"travel_place": "Tucson, AZ "
-		}
-	],
-	"desc2": "I am recruiting Ph.D. students who are interested in creating novel interactive systems. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal. If you are in Virginia Tech already and would like to do research in Echolab, please fill out the following survey. https://forms.gle/gzM3fb5iK9Jt1SPLA",
+	"travel_item": [],
+	"desc2": "I am recruiting Ph.D. students who are interested in creating novel interactive systems. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal. If you are in Virginia Tech already and would like to do research in Echolab, please fill out the following survey. https://forms.gle/gzM3fb5iK9Jt1SPLA ",
 	"links": [
 		{
 			"url": "cv/SangWonLee_Vitae.pdf",
