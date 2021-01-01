@@ -4,9 +4,10 @@
 			"travel_dates": "4/24/2020",
 			"travel_desc": "4/30/2020",
 			"travel_place": "CHI 2020"
-		}
+		},
+		{}
 	],
-	"desc2": "I am recruiting Ph.D. students who are interested in creating novel interactive systems. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal. If you are in Virginia Tech already and would like to do research in Echolab, please fill out the following survey. https://forms.gle/gzM3fb5iK9Jt1SPLA ",
+	"desc2": "A new website is launched! Please visit https://echolab.cs.vt.edu\n\nI am recruiting Ph.D. students who are interested in creating novel interactive systems. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal. If you are in Virginia Tech already and would like to do research in Echolab, please fill out the following survey. https://forms.gle/gzM3fb5iK9Jt1SPLA",
 	"links": [
 		{
 			"url": "cv/SangWonLee_Vitae.pdf",
@@ -68,7 +69,13 @@
 		{
 			"url": "http://momen-bhuiyan.appspot.com/",
 			"name": "Md Momen Bhuiyan"
-		}
+		},
+		{},
+		{
+			"url": "https://echolab.cs.vt.edu",
+			"name": "new website"
+		},
+		{}
 	],
 	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium",
 	"picture": "https://cdn.rawgit.com/panavrin/mv-data/afa922fe21bc234b5e9203a71fc9ff58f393bb79/images/sang-profile3.png",
@@ -90,6 +97,6 @@
 			"name": "     - Collaborative programming environments"
 		}
 	],
-	"desc3": "\n",
+	"desc3": "A new website is launched! Please visit https://echolab.cs.vt.edu\n",
 	"desc1": "\n\t\t\tHi, I am an assistant professor in "
 }
