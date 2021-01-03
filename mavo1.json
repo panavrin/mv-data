@@ -1,102 +1,20 @@
 {
 	"travel_item": [
-		{
-			"travel_dates": "4/24/2020",
-			"travel_desc": "4/30/2020",
-			"travel_place": "CHI 2020"
-		},
 		{}
 	],
-	"desc2": "A new website is launched! Please visit https://echolab.cs.vt.edu\n\nI am recruiting Ph.D. students who are interested in creating novel interactive systems. I am also looking for exceptional undergraduate students and master students to work with. My research goal is to create interactive systems that facilitate empathy. I am interested in the following research topics to realize the goal. If you are in Virginia Tech already and would like to do research in Echolab, please fill out the following survey. https://forms.gle/gzM3fb5iK9Jt1SPLA",
+	"desc2": "This website is not maintained. \nA new website is launched! Please visit https://echolab.cs.vt.edu",
 	"links": [
-		{
-			"url": "cv/SangWonLee_Vitae.pdf",
-			"name": "Curriculum Vitae"
-		},
-		{
-			"url": "https://scholar.google.com/citations?user=II2NGWIAAAAJ&hl=en",
-			"name": "Google Scholar"
-		},
-		{
-			"url": "https://twitter.com/snaglee2401",
-			"name": "Twitter"
-		},
-		{
-			"url": "https://medium.com/@sangwonlee.mail",
-			"name": "Medium"
-		},
-		{
-			"url": "https://bit.ly/echolab-slack",
-			"name": "Slack Echolab Worksapce"
-		},
-		{
-			"name": "   "
-		},
-		{
-			"url": "./cv/research-statement-SangWonLee.pdf",
-			"name": "Research Statement"
-		},
-		{
-			"url": "./cv/teaching-statement-SangWonLee.pdf",
-			"name": "Teaching Statement"
-		},
-		{
-			"url": "https://github.com/echo-lab/assets",
-			"name": "Lab Repository (GitHub)"
-		},
-		{
-			"url": "http://wordpress.cs.vt.edu/echolab/",
-			"name": "Research Catalog"
-		},
-		{
-			"name": "_____________"
-		},
-		{
-			"name": "Current Students"
-		},
-		{
-			"url": "https://donghanhu.github.io/Homepage/",
-			"name": "Donghan Hu"
-		},
-		{
-			"url": "https://tausiftt5238.github.io/",
-			"name": "Md Tahsin Tausif"
-		},
-		{
-			"url": "https://cbautistadesign.com/",
-			"name": "Carlos Bautista"
-		},
-		{
-			"url": "http://momen-bhuiyan.appspot.com/",
-			"name": "Md Momen Bhuiyan"
-		},
 		{},
 		{
 			"url": "https://echolab.cs.vt.edu",
-			"name": "new website"
+			"name": "This website is not maintained anymore. Please visit the new website. "
 		},
+		{},
 		{}
 	],
 	"tagline": "Human-computer interaction, Computer-mediated empathy, Computer as an expressive medium",
 	"picture": "https://cdn.rawgit.com/panavrin/mv-data/afa922fe21bc234b5e9203a71fc9ff58f393bb79/images/sang-profile3.png",
-	"research_item": [
-		{},
-		{
-			"name": "     - Computers as an expressive medium"
-		},
-		{
-			"name": "     - Computer-mediated empathy"
-		},
-		{
-			"name": "     - Groupware for facilitation of understanding"
-		},
-		{
-			"name": "     - Interactive music performance and live coding"
-		},
-		{
-			"name": "     - Collaborative programming environments"
-		}
-	],
-	"desc3": "A new website is launched! Please visit https://echolab.cs.vt.edu\n",
+	"research_item": [],
+	"desc3": "",
 	"desc1": "\n\t\t\tHi, I am an assistant professor in "
 }
